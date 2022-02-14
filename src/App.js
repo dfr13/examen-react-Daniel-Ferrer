@@ -11,7 +11,6 @@ function App() {
     <div>
       <Router>
     <Menu />
-    <h1>Desarrollo de Interfaces: Examen React.js </h1>
     <p>
     Resuelve los ejercicios propuestos. Para ello, haz un fork de este
     repositorio desde tu cuenta de Github y sube un enlace a la tarea de

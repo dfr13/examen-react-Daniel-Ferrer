@@ -9,8 +9,12 @@ class Menu extends React.Component{
   render (){
     return (
       <Navbar bg="light" expand={false}>
+         <img
+            className="logo-image"
+            src="https://eu01.edcwb.com/buscador/img/centros/logogrande/7348-a9c730d6b2b644f5b9910364ba6af277.jpg"
+          />
   <Container fluid>
-    <Navbar.Brand href="#">Navbar Offcanvas</Navbar.Brand>
+    <Navbar.Brand href="#">Menu</Navbar.Brand>
     <Navbar.Toggle aria-controls="offcanvasNavbar" />
     <Navbar.Offcanvas
       id="offcanvasNavbar"
