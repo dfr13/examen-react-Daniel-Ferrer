@@ -11,7 +11,7 @@ class Menu extends React.Component{
       <Navbar bg="light" expand={false}>
          <img
             className="logo-image"
-            src="https://eu01.edcwb.com/buscador/img/centros/logogrande/7348-a9c730d6b2b644f5b9910364ba6af277.jpg"
+            src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/1200px-React.svg.png"
           />
   <Container fluid>
     <Navbar.Brand href="#">Menu</Navbar.Brand>
